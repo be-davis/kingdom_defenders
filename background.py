@@ -32,3 +32,5 @@ What types of attackers are there?
 -------------------------------------------------------
 -can maybe buy tower defense asset packs. would make my life MUCH easier
 """
+def test():
+    pass
