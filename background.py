@@ -19,6 +19,7 @@ What types of methods can you use to protect your dependants?
 -Shield of Faith (Eph 6:16)
 -Shield of Salvation (Psalm 18:35)
 -Bronze bow (Psalm 18:34)
+-Sling and stone (1 Samuel 17: 40-51)
 -------------------------------------------------------
 What types of attackers are there?
 -Arameans (2 Chronicles 18)
@@ -28,9 +29,10 @@ What types of attackers are there?
 -Demons (Matthew 8:28)
 -Sorcerers (2 Chronicles 33:6)
 -Mediums (2 Chronicles 33:6)
+-Goliath (1 Samuel 17:4)
 -Necromancers (2 Chronicles 33:6)
 -------------------------------------------------------
 -can maybe buy tower defense asset packs. would make my life MUCH easier
 """
 def test():
-    pass
+    continue
