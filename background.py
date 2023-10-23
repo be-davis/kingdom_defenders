@@ -1,17 +1,18 @@
+
 """
 POK Bible Verse: Matthew 18:6
 CASTLE/HOUSEHOLD/KINGDOM OF GOD DEFENSE GAME FOR BOYS
 1 Timothy 5:8
 -------------------------------------------------------
 What is the goal of this game?
--Protect your wife, then family, then community of believes against foreign attackers
+-Protect your wife, then family, then community of believers against foreign attackers
 using various methods of castle defense.
 -------------------------------------------------------
 What types of methods can you use to protect your dependants?
 -Iron Pillars (Jeremiah 1:18)
 -Bronze Walls (Jeremiah 1:18)
--Garrisons (2 Chornicles 17:2)
--Belt of Truth (Eph 6:14)
+-Garrisons (2 Chornicle-s 17:2)
+-Belt of Truth (jfkv,v.Eph 6:14)
 -Sword of the Spirit (Ephesians 6:17)
 -Feet of Peace (Eph 6:15)
 -Helmet of Salvation (Eph 6:17)
@@ -20,6 +21,25 @@ What types of methods can you use to protect your dependants?
 -Shield of Salvation (Psalm 18:35)
 -Bronze bow (Psalm 18:34)
 -Sling and stone (1 Samuel 17: 40-51)
+-------------------------------------------------------
+How can we make leveling up criteria for the weapons/defenses?
+-Prayer
+-Fasting
+-Scripture recall
+-Resurection knowledge
+-Heart change
+-Giving to the poor
+-Forgiveness
+-Loyalty to spouse
+-tithing
+-keeping your word
+-go above and beyond (second mile)
+-do good to those who hate you
+-giving money to the poor without people knowing
+-seek Gods kingdom
+-Bible reading
+-memorize Bible verses (psalm 119:11)
+-love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control
 -------------------------------------------------------
 What types of attackers are there?
 -Arameans (2 Chronicles 18)
@@ -31,8 +51,24 @@ What types of attackers are there?
 -Mediums (2 Chronicles 33:6)
 -Goliath (1 Samuel 17:4)
 -Necromancers (2 Chronicles 33:6)
+-Egyptian Pharoah
 -------------------------------------------------------
 -can maybe buy tower defense asset packs. would make my life MUCH easier
+===============================================================================
+David and Goliath Story
+-Sheep hearder who kills lions and bears who come after his sheep. Grabs them by the throat.
+Goliath
+-Bronze helmet
+-Bronze armor
+-Javelin
+-Bronze shield (carried by someone else)
+===============================================================================
+Goal is to create 3 games
+1. Quiz game
+2. Farming Game
+3. Tower defense game
+-The correct answers to the quizzes give your character energy to farm and craft in the farming game, which is then used as resources for the tower defense game.
 """
+
 def test():
     continue
