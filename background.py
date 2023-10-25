@@ -1,7 +1,7 @@
 
 """
 POK Bible Verse: Matthew 18:6
-CASTLE/HOUSEHOLD/KINGDOM OF GOD DEFENSE GAME FOR BOYS
+CASTLE/HOUSEHOLD/KINGDOM OF GOD BASE BUILDING GAME
 1 Timothy 5:8
 -------------------------------------------------------
 What is the goal of this game?
@@ -24,6 +24,7 @@ What types of methods can you use to protect your dependants?
 -------------------------------------------------------
 How can we make leveling up criteria for the weapons/defenses?
 -Prayer
+-Build and altar
 -Fasting
 -Scripture recall
 -Resurection knowledge
@@ -52,6 +53,8 @@ What types of attackers are there?
 -Goliath (1 Samuel 17:4)
 -Necromancers (2 Chronicles 33:6)
 -Egyptian Pharoah
+-Locusts
+-Darkness
 -------------------------------------------------------
 -can maybe buy tower defense asset packs. would make my life MUCH easier
 ===============================================================================
@@ -63,12 +66,11 @@ Goliath
 -Javelin
 -Bronze shield (carried by someone else)
 ===============================================================================
-Goal is to create 3 games
-1. Quiz game
-2. Farming Game
-3. Tower defense game
--The correct answers to the quizzes give your character energy to farm and craft in the farming game, which is then used as resources for the tower defense game.
-"""
+What will the core gameplay loop for this game be?
+-Don't know yet. But I want to create an RPG base building game that is pixelart.
+-Build a base, random enemies come and attack, use spiritual disciplines to have enough energy for the battle
 
-def test():
-    continue
+-Kingdom of Aksum
+-Armenia
+
+"""
