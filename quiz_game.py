@@ -2,6 +2,8 @@ import random
 import numpy as np
 import quiz_player
 import json
+import pandas as pd
+
 q1 = {
     'question': ['1','2','3','4'],
     'answer': '5',
@@ -77,6 +79,7 @@ q15 = {
     'answer': '3125',
     'points': 3
 }
+
 question_list = [
     q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15
 ]
@@ -102,5 +105,6 @@ def run_game(player=quiz_player.QuizPlayer()):
       data.write(str(player.player_responses))
     print('===================================================')
     print('GAME IS OVER! YOU GOT ' + str(player.points) + ' POINTS')
+    
 run_game()
 
